@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<img width="498" height="480" alt="image" src="https://github.com/user-attachments/assets/0b8fe98c-0201-4153-99fb-98d1809d6d89" /><h1 align="center">Hey 👋 What's Up?</h1>
 <p align="center">Full-stack product engineer blending product thinking with clean execution across web, mobile, and cloud.</p>
 
 <div align="center">
@@ -65,7 +65,7 @@
 <p align="center">When I'm not coding, I'm diving into atmospheric worlds and horror classics.</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/morganLosto/morganLosto/main/assets/silent-hill-oval.gif" alt="Silent Hill vibe" width="280" loading="lazy" />
+  <img src="https://raw.githubusercontent.com/morganLosto/morganLosto/main/assets/silent-hill-oval.gif](https://media1.tenor.com/m/xN38OrcWfHwAAAAC/james-sunderland-silent-hill-2.gif" alt="Silent Hill vibe" width="280" loading="lazy" />
 </div>
 
 ---
