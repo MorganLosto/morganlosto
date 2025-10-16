@@ -78,8 +78,13 @@
 <p align="center">When I'm not coding, I'm diving into atmospheric worlds and horror classics.</p>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/xN38OrcWfHwAAAAC/james-sunderland-silent-hill-2.gif" alt="Silent Hill vibe" width="280" loading="lazy" />
+  <img src="https://media1.tenor.com/m/xN38OrcWfHwAAAAC/james-sunderland-silent-hill-2.gif" 
+       alt="Silent Hill vibe" 
+       width="280" 
+       loading="lazy"
+       style="border-radius: 50%;" />
 </div>
+
 
 ---
 
