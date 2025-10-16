@@ -65,7 +65,21 @@
 <p align="center">When I'm not coding, I'm diving into atmospheric worlds and horror classics.</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/morganLosto/morganLosto/main/assets/silent-hill-oval.gif" alt="Silent Hill vibe" width="280" loading="lazy" />
+  <svg width="280" height="280" viewBox="0 0 280 280" role="img" aria-labelledby="silent-hill-title">
+    <title id="silent-hill-title">Silent Hill vibe</title>
+    <defs>
+      <clipPath id="silent-hill-clip">
+        <ellipse cx="140" cy="135" rx="140" ry="120" />
+      </clipPath>
+    </defs>
+    <image
+      href="https://media1.tenor.com/m/xN38OrcWfHwAAAAC/james-sunderland-silent-hill-2.gif"
+      width="280"
+      height="280"
+      clip-path="url(#silent-hill-clip)"
+      preserveAspectRatio="xMidYMid slice"
+    />
+  </svg>
 </div>
 
 ---
