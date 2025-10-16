@@ -69,9 +69,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=morganLosto&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
       </td>
-      <td width="30">
-        <!-- spacer -->
-      </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morganLosto&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
       </td>
