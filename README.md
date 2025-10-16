@@ -1,17 +1,80 @@
-<h3 align="center">A passionate full-stack developer.</h3>
+<svg width="100%" height="160" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#312e81" />
+      <stop offset="50%" stop-color="#4338ca" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow stdDeviation="6" dx="0" dy="4" flood-opacity="0.35" />
+    </filter>
+  </defs>
+  <rect width="1200" height="200" fill="url(#gradient)" rx="24" />
+  <text x="60" y="88" fill="white" font-size="40" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" filter="url(#shadow)">Hi, I'm Morgan 👋</text>
+  <text x="60" y="130" fill="white" font-size="20" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.85">Creative full-stack developer building engaging products from end-to-end.</text>
+</svg>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morganlosto&label=Profile%20views&color=0e75b6&style=flat" alt="morganlosto" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morganlosto" alt="morganlosto" /></a> </p>
+<div align="center">
+  <a href="https://linkedin.com/in/omar-ech-chenygry"><img src="https://img.shields.io/badge/LinkedIn-Omar%20Ech--Chenygry-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:omar.ech.chenygry@gmail.com"><img src="https://img.shields.io/badge/Email-omar.ech.chenygry%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=morganlosto&label=Profile+Views&color=4338ca&style=flat-square" alt="Profile views" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar-ech-chenygry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-ech-chenygry" height="30" width="40" /></a>
-</p>
+## 🚀 What I Do
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- Craft robust backends with Python, Django, Flask, and NestJS
+- Ship modern web experiences using React, TypeScript, and Next.js
+- Containerize and orchestrate services with Docker & Kubernetes
+- Design resilient data pipelines on PostgreSQL, MongoDB, and MySQL
+- Explore mobile with Kotlin + Jetpack Compose when an idea needs to travel
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morganlosto&show_icons=true&locale=en&layout=compact" alt="morganlosto" /></p>
+## 🧰 Toolbox
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morganlosto&show_icons=true&locale=en" alt="morganlosto" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,nestjs,django,flask,php,kotlin,androidstudio" alt="Tech stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,bash,postgres,mongodb,mysql,redis,nginx" alt="DevOps and tools" />
+</div>
+
+## 📊 By the Numbers
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=morganlosto&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=morganlosto&theme=radical&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morganlosto&layout=compact&hide_border=true&theme=radical" alt="Top languages" height="165" />
+</div>
+
+## 📌 Highlighted Projects
+
+<table>
+  <tr>
+    <td>
+      <h4><a href="https://github.com/MorganLosto">Full-Stack Templates</a></h4>
+      <p>Production-ready scaffolds for React + NestJS, optimized for speed and DX.</p>
+      <img src="https://img.shields.io/badge/stack-React%20/%20NestJS%20/%20PostgreSQL-blue?style=flat" alt="Stack" />
+    </td>
+    <td>
+      <h4><a href="https://github.com/MorganLosto">DevOps Toolkit</a></h4>
+      <p>Opinionated Docker & Kubernetes blueprints that turn local apps into scalable deployments.</p>
+      <img src="https://img.shields.io/badge/tools-Docker%20/%20K8s%20/%20Helm-0ea5e9?style=flat" alt="DevOps stack" />
+    </td>
+  </tr>
+</table>
+
+## 🌱 Currently Exploring
+
+- Building highly interactive dashboards with modern data viz libraries
+- Automating developer workflows with GitHub Actions & Argo Workflows
+- Experimenting with AI-assisted coding and application copilots
+
+## 🤝 Let's Build Something
+
+<div align="center">
+  <blockquote>Open to collaborating on impactful web platforms, developer tooling, and cloud-native products.</blockquote>
+  <a href="mailto:omar.ech.chenygry@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-omar.ech.chenygry%40gmail.com-1D4ED8?style=for-the-badge" alt="Contact" /></a>
+</div>
+
+---
+
+<p align="center"><i>“Move fast, but leave clean, tested code behind.”</i></p>
