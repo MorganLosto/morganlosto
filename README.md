@@ -49,24 +49,14 @@
 
 ### 📈 Activity At A Glance
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=morganLosto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="Stats graph" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morganLosto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="Languages graph" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=morganLosto&theme=tokyonight-duo&hide_border=true" height="150" alt="Streak graph" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app?username=morganLosto&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="Trophy showcase" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=morganLosto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="Stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morganLosto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="Languages graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=morganLosto&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true" height="150" alt="Trophy showcase" />
+</p>
 
 ---
 
