@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=morganLosto&locale=en&mode=daily&theme=tokyonight-duo&hide_border=true&border_radius=5&order=3" height="150" alt="Streak graph" />
+      <img src="https://streak-stats.demolab.com/?user=morganLosto&theme=tokyonight-duo&hide_border=true" height="150" alt="Streak graph" />
     </td>
     <td align="center">
       <img src="https://github-profile-trophy.vercel.app?username=morganLosto&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="Trophy showcase" />
@@ -75,7 +75,7 @@
 <p align="center">When I'm not coding, I'm diving into atmospheric worlds and horror classics.</p>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt0cDNyeGM0OHE0bmVzNXoxZmg0dGNtbnQyeDZpdXprbThlcHAzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OQUQhxpxImEm2vBMOc/giphy.gif" alt="Silent Hill vibe" width="280" height="280" style="border-radius: 55% 45% 60% 40% / 50% 50% 45% 55%; object-fit: cover; box-shadow: 0 12px 35px rgba(17, 24, 39, 0.35);" loading="lazy" />
+  <img src="https://raw.githubusercontent.com/morganLosto/morganLosto/main/assets/silent-hill-oval.gif" alt="Silent Hill vibe" width="280" loading="lazy" />
 </div>
 
 ---
