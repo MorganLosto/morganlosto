@@ -1,1 +1,99 @@
-PGgxIGFsaWduPSJjZW50ZXIiPkhleSDwn5GLIFdoYXQncyBVcD88L2gxPgo8cCBhbGlnbj0iY2VudGVyIj5GdWxsLXN0YWNrIHByb2R1Y3QgZW5naW5lZXIgYmxlbmRpbmcgcHJvZHVjdCB0aGlua2luZyB3aXRoIGNsZWFuIGV4ZWN1dGlvbiBhY3Jvc3Mgd2ViLCBtb2JpbGUsIGFuZCBjbG91ZC48L3A+Cgo8ZGl2IGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9tb3JnYW5Mb3N0byIgdGFyZ2V0PSJfYmxhbmsiPgogICAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vc3RhdGljL3YxP21lc3NhZ2U9TGlua2VkSW4mbG9nbz1saW5rZWRpbiZsYWJlbD0mY29sb3I9MDA3N0I1JmxvZ29Db2xvcj13aGl0ZSZsYWJlbENvbG9yPSZzdHlsZT1mb3ItdGhlLWJhZGdlIiBoZWlnaHQ9IjI1IiBhbHQ9IkxpbmtlZEluIGJhZGdlIiAvPgogIDwvYT4KICA8YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL21vcmdhbkxvc3RvIiB0YXJnZXQ9Il9ibGFuayI+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9zdGF0aWMvdjE/bWVzc2FnZT1Ud2l0dGVyJmxvZ289dHdpdHRlciZsYWJlbD0mY29sb3I9MURBMUYyJmxvZ29Db2xvcj13aGl0ZSZsYWJlbENvbG9yPSZzdHlsZT1mb3ItdGhlLWJhZGdlIiBoZWlnaHQ9IjI1IiBhbHQ9IlR3aXR0ZXIgYmFkZ2UiIC8+CiAgPC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vZGlzY29yZGFwcC5jb20vdXNlcnMvbW9yZ2FuTG9zdG8iIHRhcmdldD0iX2JsYW5rIj4KICAgIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL3N0YXRpYy92MT9tZXNzYWdlPURpc2NvcmQmbG9nbz1kaXNjb3JkJmxhYmVsPSZjb2xvcj03Mjg5REEmbG9nb0NvbG9yPXdoaXRlJmxhYmVsQ29sb3I9JnN0eWxlPWZvci10aGUtYmFkZ2UiIGhlaWdodD0iMjUiIGFsdD0iRGlzY29yZCBiYWRnZSIgLz4KICA8L2E+CjwvZGl2PgoKLS0tCgojIyMg4pqZ77iPIFN0YWNrIEluIFJvdGF0aW9uCgo8cCBhbGlnbj0iY2VudGVyIj5TaGlwcGluZyB3aXRoIGEgbWl4IG9mIG1vZGVybiBmcm9udC1lbmQsIHJlbGlhYmxlIHNlcnZpY2VzLCBhbmQgYXV0b21hdGlvbi1mcmllbmRseSB0b29saW5nLjwvcD4KCjxkaXYgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vc2tpbGxpY29ucy5kZXYvaWNvbnM/aT1uZXh0anMiIGhlaWdodD0iNjAiIGFsdD0iTmV4dC5qcyBsb2dvIiAvPgogIDxpbWcgd2lkdGg9IjEyIiAvPgogIDxpbWcgc3JjPSJodHRwczovL3NraWxsaWNvbnMuZGV2L2ljb25zP2k9dGFpbHdpbmQiIGhlaWdodD0iNjAiIGFsdD0iVGFpbHdpbmQgQ1NTIGxvZ28iIC8+CiAgPGltZyB3aWR0aD0iMTIiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9kZXZpY29ucy9kZXZpY29uL2ljb25zL3N0b3J5Ym9vay9zdG9yeWJvb2stb3JpZ2luYWwuc3ZnIiBoZWlnaHQ9IjYwIiBhbHQ9IlN0b3J5Ym9vayBsb2dvIiAvPgogIDxpbWcgd2lkdGg9IjEyIiAvPgogIDxpbWcgc3JjPSJodHRwczovL3NraWxsaWNvbnMuZGV2L2ljb25zP2k9Z3JhcGhxbCIgaGVpZ2h0PSI2MCIgYWx0PSJHcmFwaFFMIGxvZ28iIC8+CiAgPGltZyB3aWR0aD0iMTIiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vc2tpbGxpY29ucy5kZXYvaWNvbnM/aT1weSIgaGVpZ2h0PSI2MCIgYWx0PSJQeXRob24gbG9nbyIgLz4KICA8aW1nIHdpZHRoPSIxMiIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9za2lsbGljb25zLmRldi9pY29ucz9pPWF3cyIgaGVpZ2h0PSI2MCIgYWx0PSJBV1MgbG9nbyIgLz4KICA8aW1nIHdpZHRoPSIxMiIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2Rldmljb25zL2Rldmljb24vaWNvbnMvbGFyYXZlbC9sYXJhdmVsLW9yaWdpbmFsLnN2ZyIgaGVpZ2h0PSI2MCIgYWx0PSJMYXJhdmVsIGxvZ28iIC8+CiAgPGltZyB3aWR0aD0iMTIiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9kZXZpY29ucy9kZXZpY29uL2ljb25zL3JlYWN0L3JlYWN0LW9yaWdpbmFsLnN2ZyIgaGVpZ2h0PSI2MCIgYWx0PSJSZWFjdCBsb2dvIiAvPgogIDxpbWcgd2lkdGg9IjEyIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvZGV2aWNvbnMvZGV2aWNvbi9pY29ucy9hbmRyb2lkc3R1ZGlvL2FuZHJvaWRzdHVkaW8tb3JpZ2luYWwuc3ZnIiBoZWlnaHQ9IjYwIiBhbHQ9IkFuZHJvaWQgU3R1ZGlvIGxvZ28iIC8+CiAgPGltZyB3aWR0aD0iMTIiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9kZXZpY29ucy9kZXZpY29uL2ljb25zL215c3FsL215c3FsLW9yaWdpbmFsLnN2ZyIgaGVpZ2h0PSI2MCIgYWx0PSJNeVNRTCBsb2dvIiAvPgogIDxpbWcgd2lkdGg9IjEyIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvZGV2aWNvbnMvZGV2aWNvbi9pY29ucy9jL2Mtb3JpZ2luYWwuc3ZnIiBoZWlnaHQ9IjYwIiBhbHQ9IkMgbG9nbyIgLz4KICA8aW1nIHdpZHRoPSIxMiIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2Rldmljb25zL2Rldmljb24vaWNvbnMvZG9ja2VyL2RvY2tlci1vcmlnaW5hbC5zdmciIGhlaWdodD0iNjAiIGFsdD0iRG9ja2VyIGxvZ28iIC8+CjwvZGl2PgoKLS0tCgojIyMg8J+TiCBBY3Rpdml0eSBBdCBBIEdsYW5jZQoKPHRhYmxlIGFsaWduPSJjZW50ZXIiPgogIDx0cj4KICAgIDx0ZCBhbGlnbj0iY2VudGVyIj4KICAgICAgPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaT91c2VybmFtZT1tb3JnYW5Mb3N0byZoaWRlX3RpdGxlPWZhbHNlJmhpZGVfcmFuaz1mYWxzZSZzaG93X2ljb25zPXRydWUmaW5jbHVkZV9hbGxfY29tbWl0cz10cnVlJmNvdW50X3ByaXZhdGU9dHJ1ZSZkaXNhYmxlX2FuaW1hdGlvbnM9ZmFsc2UmdGhlbWU9dG9reW9uaWdodCZsb2NhbGU9ZW4maGlkZV9ib3JkZXI9dHJ1ZSZvcmRlcj0xIiBoZWlnaHQ9IjE1MCIgYWx0PSJTdGF0cyBncmFwaCIgLz4KICAgIDwvdGQ+CiAgICA8dGQgYWxpZ249ImNlbnRlciI+CiAgICAgIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGkvdG9wLWxhbmdzP3VzZXJuYW1lPW1vcmdhbkxvc3RvJmxvY2FsZT1lbiZoaWRlX3RpdGxlPWZhbHNlJmxheW91dD1jb21wYWN0JmNhcmRfd2lkdGg9MzIwJmxhbmdzX2NvdW50PTUmdGhlbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlJm9yZGVyPTIiIGhlaWdodD0iMTUwIiBhbHQ9Ikxhbmd1YWdlcyBncmFwaCIgLz4KICAgIDwvdGQ+CiAgPC90cj4KICA8dHI+CiAgICA8dGQgYWxpZ249ImNlbnRlciI+CiAgICAgIDxpbWcgc3JjPSJodHRwczovL3N0cmVhay1zdGF0cy5kZW1vbGFiLmNvbT91c2VyPW1vcmdhbkxvc3RvJmxvY2FsZT1lbiZtb2RlPWRhaWx5JnRoZW1lPXRva3lvbmlnaHQtZHVvJmhpZGVfYm9yZGVyPXRydWUmYm9yZGVyX3JhZGl1cz01Jm9yZGVyPTMiIGhlaWdodD0iMTUwIiBhbHQ9IlN0cmVhayBncmFwaCIgLz4KICAgIDwvdGQ+CiAgICA8dGQgYWxpZ249ImNlbnRlciI+CiAgICAgIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1wcm9maWxlLXRyb3BoeS52ZXJjZWwuYXBwP3VzZXJuYW1lPW1vcmdhbkxvc3RvJnRoZW1lPXRva3lvbmlnaHQmY29sdW1uPS0xJnJvdz0xJm1hcmdpbi13PTgmbWFyZ2luLWg9OCZuby1iZz1mYWxzZSZuby1mcmFtZT10cnVlJm9yZGVyPTQiIGhlaWdodD0iMTUwIiBhbHQ9IlRyb3BoeSBzaG93Y2FzZSIgLz4KICAgIDwvdGQ+CiAgPC90cj4KPC90YWJsZT4KCi0tLQoKIyMjIPCflbnvuI8gUGxheWZ1bCBIaWdobGlnaHRzCgo8cCBhbGlnbj0iY2VudGVyIj5XaGVuIEknbSBub3QgY29kaW5nLCBJJ20gZGl2aW5nIGludG8gYXRtb3NwaGVyaWMgd29ybGRzIGFuZCBob3Jyb3IgY2xhc3NpY3MuPC9wPgoKPGRpdiBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9tZWRpYTIuZ2lwaHkuY29tL21lZGlhL3YxLlkybGtQVGM1TUdJM05qRXhhR3QwY0ROeWVHTTBPSEUwYm1Wek5Yb3habWcwZEdOdGJuUXllRFpwZFhwcmJUaGxjSEF6WmlabGNEMTJNVjlwYm5SbGNtNWhiRjluYVdaZllubGZhV1FtWTNROVp3L09RVVFoeHB4SW1FbTJ2Qk1PYy9naXBoeS5naWYiIGFsdD0iU2lsZW50IEhpbGwgdmliZSIgd2lkdGg9IjI4MCIgaGVpZ2h0PSIyODAiIHN0eWxlPSJib3JkZXItcmFkaXVzOiA1NSUgNDUlIDYwJSA0MCUgLyA1MCUgNTAlIDQ1JSA1NSU7IG9iamVjdC1maXQ6IGNvdmVyOyBib3gtc2hhZG93OiAwIDEycHggMzVweCByZ2JhKDE3LCAyNCwgMzksIDAuMzUpOyIgbG9hZGluZz0ibGF6eSIgLz4KPC9kaXY+CgotLS0KCiMjIyDwn5OrIENvbW11bml0eSBIYW5nb3V0cwoKPGRpdiBhbGlnbj0ibGVmdCI+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL21vcmdhbkxvc3RvIiB0YXJnZXQ9Il9ibGFuayI+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdXJvZGVzb3V6YS9wcm9maWxlLXJlYWRtZS1nZW5lcmF0b3IvbWFzdGVyL3NyYy9hc3NldHMvaWNvbnMvc29jaWFsL2xpbmtlZGluL2RlZmF1bHQuc3ZnIiB3aWR0aD0iNTIiIGhlaWdodD0iNDAiIGFsdD0iTGlua2VkSW4iIC8+CiAgPC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vbW9yZ2FuTG9zdG8iIHRhcmdldD0iX2JsYW5rIj4KICAgIDxpbWcgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWF1cm9kZXNvdXphL3Byb2ZpbGUtcmVhZG1lLWdlbmVyYXRvci9tYXN0ZXIvc3JjL2Fzc2V0cy9pY29ucy9zb2NpYWwvdHdpdHRlci9kZWZhdWx0LnN2ZyIgd2lkdGg9IjUyIiBoZWlnaHQ9IjQwIiBhbHQ9IlR3aXR0ZXIiIC8+CiAgPC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vZGlzY29yZGFwcC5jb20vdXNlcnMvbW9yZ2FuTG9zdG8iIHRhcmdldD0iX2JsYW5rIj4KICAgIDxpbWcgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWF1cm9kZXNvdXphL3Byb2ZpbGUtcmVhZG1lLWdlbmVyYXRvci9tYXN0ZXIvc3JjL2Fzc2V0cy9pY29ucy9zb2NpYWwvZGlzY29yZC9kZWZhdWx0LnN2ZyIgd2lkdGg9IjUyIiBoZWlnaHQ9IjQwIiBhbHQ9IkRpc2NvcmQiIC8+CiAgPC9hPgo8L2Rpdj4KCjxkaXYgYWxpZ249ImNlbnRlciI+CiAgPGVtPkxldCdzIGNvbm5lY3QsIHN3YXAgaWRlYXMsIGFuZCBidWlsZCBzb21ldGhpbmcgbWVtb3JhYmxlLjwvZW0+CjwvZGl2Pgo=
+<h1 align="center">Hey 👋 What's Up?</h1>
+<p align="center">Full-stack product engineer blending product thinking with clean execution across web, mobile, and cloud.</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/morganLosto" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" />
+  </a>
+  <a href="https://twitter.com/morganLosto" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter badge" />
+  </a>
+  <a href="https://discordapp.com/users/morganLosto" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord badge" />
+  </a>
+</div>
+
+---
+
+### ⚙️ Stack In Rotation
+
+<p align="center">Shipping with a mix of modern front-end, reliable services, and automation-friendly tooling.</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="Laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="Android Studio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker logo" />
+</div>
+
+---
+
+### 📈 Activity At A Glance
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=morganLosto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="Stats graph" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morganLosto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="Languages graph" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=morganLosto&locale=en&mode=daily&theme=tokyonight-duo&hide_border=true&border_radius=5&order=3" height="150" alt="Streak graph" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app?username=morganLosto&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="Trophy showcase" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🕹️ Playful Highlights
+
+<p align="center">When I'm not coding, I'm diving into atmospheric worlds and horror classics.</p>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt0cDNyeGM0OHE0bmVzNXoxZmg0dGNtbnQyeDZpdXprbThlcHAzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OQUQhxpxImEm2vBMOc/giphy.gif" alt="Silent Hill vibe" width="280" height="280" style="border-radius: 55% 45% 60% 40% / 50% 50% 45% 55%; object-fit: cover; box-shadow: 0 12px 35px rgba(17, 24, 39, 0.35);" loading="lazy" />
+</div>
+
+---
+
+### 📫 Community Hangouts
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/morganLosto" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/morganLosto" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
+  </a>
+  <a href="https://discordapp.com/users/morganLosto" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
+  </a>
+</div>
+
+<div align="center">
+  <em>Let's connect, swap ideas, and build something memorable.</em>
+</div>
