@@ -68,7 +68,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=morganLosto&theme=tokyonight&column=3&margin-w=12&margin-h=12&no-bg=false&no-frame=true" height="150" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/snake.svg" alt="Snake animation" />
 </p>
 
 ---
