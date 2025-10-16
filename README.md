@@ -64,8 +64,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=morganLosto&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morganLosto&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morganLosto&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/snake.svg" alt="Snake animation" />
