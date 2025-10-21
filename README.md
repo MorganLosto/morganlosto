@@ -3,7 +3,7 @@
 <p align="center"><em>Balancing product intuition with shipping discipline so teams move fast without breaking what matters.</em></p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/morganLosto" target="_blank">
+  <a href="www.linkedin.com/in/omar-ech-chenygry" target="_blank">
     <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/morganLosto" target="_blank">
